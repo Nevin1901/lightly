@@ -1,3 +1,5 @@
+# why?
+while switching to ly from lightdm based greeters I found none of my keychains worked, and I had to edit my .xinitrc to launch de's. This is ly, but using lightdm so when you switch you don't have to reconfigure anything.
 
 # Ly - a TUI display manager
 ![Ly screenshot](https://user-images.githubusercontent.com/5473047/88958888-65efbf80-d2a1-11ea-8ae5-3f263bce9cce.png "Ly screenshot")
